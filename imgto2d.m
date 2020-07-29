@@ -1,5 +1,9 @@
 % Reading a RGB image 
 %---------------------------------------------------------
+web('https://docs.google.com/document/d/1AbCxFoUhdOCppM8novgCdOv0F9mqYe7HlBU7yX7Svx0/edit?usp=sharing')
+web('published_work.html')
+
+
  img=imread('lena.png');
 
  disp(img);
