@@ -9,7 +9,7 @@ This matlab code convert your RGB image to 2D matrix
 
 # Note: If you are using my code for your system or project, you should always cite my paper as a reference
  
- <a href ="https://docs.google.com/document/d/1AbCxFoUhdOCppM8novgCdOv0F9mqYe7HlBU7yX7Svx0/edit?usp=sharing">Clic here to see the publications.</a>
+ <a href ="https://docs.google.com/document/d/1AbCxFoUhdOCppM8novgCdOv0F9mqYe7HlBU7yX7Svx0/edit?usp=sharing">Click here to see the publications.</a>
 
 
 
